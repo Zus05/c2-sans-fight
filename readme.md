@@ -1,3 +1,11 @@
+# REEEEEEEEEEEEEAAAAAAAAAAAAAAAD!!!!!!!!!!!!!
+If you have played the original project by jcw87 and are playing this, nothing will seem to be different.
+This is becuase the game caches the files (keeps them loaded) so i guess if you rage quit it will load faster. so if youve previously played c2-sans-fight, or have played an outdated version of this one, you have to clear your cache by doing this: (works the same on windows)
+
+
+
+
+
 # Bad Time Simulator (Sans Fight)
 This project is a clone of the sans fight from [Undertale](http://undertale.com/).
 It was made with [Construct 2](https://www.scirra.com/construct2).
