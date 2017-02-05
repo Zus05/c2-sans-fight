@@ -2,8 +2,10 @@
 If you have played the original project by jcw87 and are playing this, nothing will seem to be different.
 This is becuase the game caches the files (keeps them loaded) so i guess if you rage quit it will load faster. so if youve previously played c2-sans-fight, or have played an outdated version of this one, you have to clear your cache by doing this: (works the same on windows)
 ![Click the triple dot on chrome](/Readme img/1.png?raw=true "Triple dot Chrome")
-![Click the triple dot on chrome](/Readme img/1.png?raw=true "Optional Title")
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![highlight more tools and click clear browser data](/Readme img/2.png?raw=true "More tools browser data")
+![Select only these options](/Readme img/3.png?raw=true "Cached images")
+
+doing this may log you out of websites and clear other caches files.
 
 
 # Bad Time Simulator (Sans Fight)
