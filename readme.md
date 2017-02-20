@@ -5,6 +5,8 @@ This is becuase the game caches the files (keeps them loaded) so i guess if you 
 ![highlight more tools and click clear browser data](/Readme img/2.png?raw=true "More tools browser data")
 ![Select only these options](/Readme img/3.png?raw=true "Cached images")
 
+set the past day option to whatever time you last played the game. you wont have to do this anymore until the game is updated or you want to play the original.
+
 doing this may log you out of websites and clear other caches files.
 
 
@@ -20,10 +22,3 @@ Known Issues
 - Screen shake is missing. While I could plop in any screen shake algorithm on the internet, I'm more interested in how Undertale did it.
 - Sans dialog is missing. I may add something at some future date, but I have no intention of putting the original text in, as it really only makes sense in the context of the whole game.
 - Missing documentation for custom attacks. I intend to add this at some point, but for now, you can reference the *.csv files in the repository. I may change how this works later, so don't be surprised if your custom attack breaks.
-
-Contact
--------
-If you want to contact me for some reason, you can do so through the following:
-
-- [Facepunch](https://facepunch.com/member.php?u=13155)
-- [Steam](http://steamcommunity.com/id/Jcw87/)
