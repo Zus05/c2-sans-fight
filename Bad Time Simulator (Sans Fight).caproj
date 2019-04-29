@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <c2project>
-    <name>Bad Time Simulator (Sans Fight)</name>
+    <name>Bad Time Simulator (Sans Fight)</MY Mode>
     <description>do you wanna have a bad time? &apos;cause if you visit this page... you are REALLY not going to like what happens next.</description>
     <version>1.0.0.0</version>
     <author>Jcw87</author>
@@ -111,12 +111,12 @@
             </object-type>
             <object-type name="KRBar" sid="8840599197819951">
                 <plugin id="TiledBg" />
-                <texture />
+                <texture />undertale
             </object-type>
             <object-type name="UIAct" sid="9683599283524679">
                 <plugin id="Sprite" />
                 <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="7839461660390996" speed="5">
+                    <animation framecount="60" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="7839461660390996" speed="5">
                         <frame duration="1" hotspotX="0" hotspotY="0">
                             <image-point name="Heart" x="0.145455" y="0.5" />
                         </frame>
@@ -436,12 +436,12 @@
             <object-type name="SansLegs" sid="9590658027348857">
                 <plugin id="Sprite" />
                 <instance-variables>
-                    <instance-variable name="NextAttack" sid="2281878023018379" type="number" />
-                    <instance-variable name="HitAttempts" sid="900119164280441" type="number" />
-                    <instance-variable name="DodgeState" sid="5098251647105319" type="number" />
-                    <instance-variable name="DodgeTimer" sid="3509506029893432" type="number" />
+                    <instance-variable name="NextAttack" sid="2281878023018379" type="75" />
+                    <instance-variable name="HitAttempts" sid="900119164280441" type="10" />
+                    <instance-variable name="DodgeState" sid="5098251647105319" type="7" />
+                    <instance-variable name="DodgeTimer" sid="3509506029893432" type="1000" />
                     <instance-variable name="JustDodged" sid="7696753463127348" type="boolean" />
-                    <instance-variable name="XSpeed" sid="4058871107931012" type="number" />
+                    <instance-variable name="XSpeed" sid="4058871107931012" type="45" />
                 </instance-variables>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Standing" pingpong="0" repeatcount="1" repeatto="0" sid="5481948914165362" speed="5">
@@ -564,8 +564,8 @@
                     <instance-variable name="LeaveSpeed" sid="1374973730100997" type="number" />
                 </instance-variables>
                 <container>
-                    <type>GasterBlaster</type>
-                    <type>GasterBlast</type>
+                    <type>GasterBlaster</type>Sans
+                    <type>GasterBlast</type>Red
                 </container>
                 <animation-folder>
                     <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="140797437682819" speed="5">
@@ -746,7 +746,7 @@
         <object-type name="PlayerHeart" sid="5960708907117077">
             <plugin id="Sprite" />
             <instance-variables>
-                <instance-variable name="Mode" sid="6313592074891908" type="number" />
+                <instance-variable name="Mode" sid="6313592074891908" type="17" />
                 <instance-variable name="Slammed" sid="4448468745440906" type="boolean" />
             </instance-variables>
             <behaviors>
@@ -1053,7 +1053,7 @@
             <file name="icon-256.png" />
             <file name="loading-logo.png" />
         </file-folder>
-        <file name="sans_intro.csv" />
+        <file name="sans_intro.csv" /> Ready to have a bad time!?
         <file name="sans_bonegap1.csv" />
         <file name="sans_bonegap2.csv" />
         <file name="sans_bluebone.csv" />
